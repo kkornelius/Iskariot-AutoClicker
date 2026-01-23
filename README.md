@@ -3,6 +3,8 @@
 ![Badge Versi](https://img.shields.io/badge/version-1.0.0-blue)
 ![Badge Bahasa](https://img.shields.io/badge/language-AutoHotkey-green)
 ![Badge License](https://img.shields.io/badge/license-MIT-orange)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v1-green)
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
 **Iskariot AutoClicker** adalah alat otomatisasi klik yang ringan, cepat, dan memiliki tampilan antarmuka (GUI) modern dengan tema Dark Mode. Dilengkapi dengan fitur Perekam Makro (Macro Recorder) untuk merekam dan mengulang aktivitas mouse & keyboard yang kompleks.
 
@@ -19,15 +21,19 @@
 ## 💻 System Requirements
 - **OS:** Windows 10/11 (Not compatible with macOS or Linux)
 - **Runtime:** AutoHotkey v1.1+ (Only if running from source)
+- **Compiled EXE available** (portable)
 
 ## ✨ Fitur Unggulan
 
-- **🚀 Simple Clicker:** Klik otomatis dengan interval yang bisa diatur (ms) atau mode tahan (hold).
-- **🔴 Macro Recorder:** Rekam pergerakan mouse, klik, dan ketikan keyboard, lalu ulangi sesuka hati.
-- **ghost Mode:** Atur transparansi jendela agar tidak mengganggu pandangan saat bermain game.
-- **🔄 Loop Counter:** Pantau berapa kali makro telah dijalankan.
-- **🛡️ Safe & Light:** Menggunakan resource CPU/RAM yang sangat minim.
-- **💾 Save/Load System:** Simpan rekaman makro kamu ke file `.txt` dan muat kembali kapan saja.
+- 🚀 Simple Auto Clicker (Click / Hold Mode)
+- ⌨ Custom Hotkey
+- 🔴 Macro Recorder (Mouse + Keyboard)
+- 🔄 Loop Playback with Counter
+- 💾 Save & Load Macro
+- 👻 Ghost Mode (Transparency)
+- 🔊 Sound Feedback (SFX)
+- 🛡️ Safe & Light: Menggunakan resource CPU/RAM yang sangat minim.
+- 🛑 Emergency Stop (F3)
 
 ## 📥 Cara Install & Penggunaan
 
