@@ -16,6 +16,9 @@
 <img width="352" height="427" alt="image" src="https://github.com/user-attachments/assets/49867148-7c4c-48cb-9795-11fa62416c16" />
 
 
+## 💻 System Requirements
+- **OS:** Windows 10/11 (Not compatible with macOS or Linux)
+- **Runtime:** AutoHotkey v1.1+ (Only if running from source)
 
 ## ✨ Fitur Unggulan
 
