@@ -57,8 +57,19 @@ Jika kamu ingin memodifikasi kode:
 | **F3** | Emergency Stop (Berhenti Total) |
 | **F6** | Start/Stop Simple Auto Clicker |
 
-## ⚠️ Disclaimer
-Gunakan alat ini dengan bijak. Penulis tidak bertanggung jawab atas penggunaan alat ini untuk tujuan yang melanggar aturan (cheating) pada game online tertentu.
+
+## ⚠️ Peringatan Antivirus / Browser (False Positive)
+Saat mengunduh versi `.exe`, browser (Chrome/Edge) atau Windows Defender mungkin mendeteksi file ini sebagai virus atau file berbahaya. 
+
+**Ini adalah False Positive (Salah Deteksi).**
+Aplikasi ini dibuat menggunakan AutoHotkey. Karena fungsinya yang mengontrol mouse dan keyboard (untuk AutoClicker & Macro), sistem keamanan Windows mencurigainya sebagai malware. 
+
+**Cara melewati peringatan:**
+- Di Chrome/Edge: Klik tombol titik tiga pada unduhan -> Pilih **Keep (Simpan)** -> **Keep anyway**.
+- Di Windows SmartScreen: Klik **More Info (Info lebih lanjut)** -> **Run anyway (Tetap jalankan)**.
+
+**Tidak percaya?**
+Aplikasi ini 100% Open-Source. Kamu bisa melihat seluruh kodenya di folder `src`. Jika kamu ragu menjalankan versi `.exe`, silakan jalankan versi mentahannya (`.ahk`) dengan menginstal [AutoHotkey](https://www.autohotkey.com/) di PC kamu.
 
 ## 📄 Lisensi
 Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
